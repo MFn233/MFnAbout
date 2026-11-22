@@ -23,3 +23,7 @@ build
 # other
 eclipse
 run
+
+# 临时备份的上一个 .git 目录
+.git.bak/
+
