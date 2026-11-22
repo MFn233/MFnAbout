@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# MFnAbout
-Just an about mod for modpack creators.
-=======
 # MFn's About
 
 给 Minecraft **1.12.2** 主菜单加一个可配置的「关于」按钮。点开后是一个支持颜色代码的富文本界面。
@@ -69,4 +65,3 @@ Just an about mod for modpack creators.
 ## 许可证
 
 MIT
->>>>>>> 3d6355a (1.0.0: configurable About button on the main menu)
