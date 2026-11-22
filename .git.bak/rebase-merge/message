@@ -1,0 +1,12 @@
+1.0.0: configurable About button on the main menu
+
+- injects a 20x20 "!" button to the right of Quit, mirroring the language button layout
+- tooltip and OK button are localised (zh_cn / en_us)
+- rich-text screen with colour codes, scrolling and an OK button
+- button position (mirrored by default, or absolute) and all text live in config/mfnabout.cfg
+- the icon must be sampled with drawModalRectWithCustomSizedTexture; drawTexturedModalRect
+  assumes a 256x256 atlas and read the wrong region of the 16x16 texture
+
+# Conflicts:
+#	LICENSE
+#	README.md
