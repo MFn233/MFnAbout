@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="https://github.com/maple-days"><img src="https://github.com/maple-days.png?size=96" width="56" alt="Maple Days"></a>
+</p>
+
+<p align="center">
+  <sub><b>Maple Days</b> · 《打脸日常》整合包附属 mod · Minecraft 1.12.2</sub>
+</p>
+
 # MFn's About
 
 给 Minecraft **1.12.2** 主菜单加一个可配置的「关于」按钮。点开后是一个支持颜色代码的富文本界面。
